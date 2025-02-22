@@ -1,6 +1,6 @@
 # Lead Saver Extension By [Stephen Igoche](https://www.instagram/__stephen_igoche__)
 
-![ScreenShot](Assets\Images\ScreenShot.png)
+![ScreenShot](./Assets/Images/Screenshot.png)
 
 ## Table of Content
 
